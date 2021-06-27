@@ -4,7 +4,7 @@ The code in this repository can be used to find the "NerdCache".
 
 ## About this program
 
-More information on the background of this program can be found at [geocaching.com/](https://www.geocaching.com/). 
+More information on the background of this program can be found at [geocaching.com](https://www.geocaching.com/). 
 
 ## Pre conditions
 
@@ -21,7 +21,7 @@ Most Linux distributions have Python3 and git installed by default. Take the fol
 1. Open a terminal
 2. Install the program, type in the terminal: `git checkout https://github.com/fvbakel/NerdCache.git`
 3. To run the program: 
-```python
+```bash
 cd NerdCache
 python nerdcache.py
 ```
@@ -38,7 +38,7 @@ Windows does not have Python3 and git installed by default. Take the following s
 1. Open a command prompt
 2. Install the program, type in the terminal: `git checkout https://github.com/fvbakel/NerdCache.git`
 3. To run the program: 
-```python
+```bash
 cd NerdCache
 python nerdcache.py
 ```
@@ -58,7 +58,7 @@ macOS does not have Python3 and git installed by default. Take the following ste
 1. Open a terminal
 2. Install the program, type in the terminal: `git checkout https://github.com/fvbakel/NerdCache.git`
 3. To run the program: 
-```python
+```bash
 cd NerdCache
 python nerdcache.py
 ```
@@ -70,7 +70,7 @@ Congratulations, you found the cache!
 
 ## Run on HumanOs
 
-[HumanOs](https://en.wikipedia.org/wiki/Human_brain) comes in many different versions and installations. In fact, each installation is unique. Therefor it is very difficult to tell how this program can be run on your copy of HumanOs. Some versions of HumanOs are able to run this program without any further modules installed or already have all the required software and information installed to run. Below is a list of common modules that might be required to install on your copy of HumanOs:
+The Human Operating system ([HumanOs](https://en.wikipedia.org/wiki/Human_brain))comes in many different versions and installations. In fact, each installation is unique. Therefor it is very difficult to tell how this program can be run on your copy of HumanOs. Some versions of HumanOs are able to run this program without any further modules installed or already have all the required software and information installed to run. Below is a list of common modules that might be required to install on your copy of HumanOs:
 
 - careful-reading
 - common-sense
@@ -87,10 +87,10 @@ Furthermore, it is required to have GPS or smartphone hardware attached.
 
 Take the following steps to install and run this program on HumanOs:
 
-1. Open a browser and navigate to https://github.com/fvbakel/NerdCache
+1. Open a browser and navigate to [github.com/fvbakel/NerdCache](https://github.com/fvbakel/NerdCache)
 2. HumanOs will now automatically install and run this program
 
-If modules are missing then HumanOs will automatically try and install the additional software that is required. Some versions seem to run into the [halting problem](https://en.wikipedia.org/wiki/Halting_problem) during this phase. If your copy of HumanOs will run into this condition can not be predicted. 
+If modules are missing then HumanOs will automatically try and install the additional software that is required. Some versions seem to run into the [halting problem](https://en.wikipedia.org/wiki/Halting_problem) during this phase. If your copy of HumanOs will run into this condition can not be predicted. Some versions of HumanOs seem to halt because they can not run this program on their own. They can however run this program in a [cluster](https://en.wikipedia.org/wiki/Computer_cluster).
 
 It is difficult to predict what the output of the program will be on your copy of HumanOs. Since there are so many different versions of HumanOs the output might be very different in each case. However it is known that this program might cause the following programs to run at the same time or after this program is run:
 
@@ -100,5 +100,5 @@ It is difficult to predict what the output of the program will be on your copy o
 - happy
 - smile
 
-Please let me know the output of this program on your copy of HumanOs on [geocaching.com/](https://www.geocaching.com/).
+Please let me know the output of this program on your copy of HumanOs on [geocaching.com](https://www.geocaching.com/).
 
